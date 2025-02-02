@@ -128,7 +128,7 @@ body{
   white-space: nowrap;
   overflow: hidden;
   border-right:2px solid #000000;
-  animation: type 8s steps(19ch) infinite
+  animation: type 8s steps(19) infinite
   ,blink 500ms step-end infinite alternate;
 }
 @keyframes blink{
